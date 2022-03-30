@@ -1,0 +1,2 @@
+from el import *
+reg()
